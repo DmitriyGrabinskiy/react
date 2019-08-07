@@ -1,0 +1,19 @@
+.NavigationItem {
+    float: left;
+}
+
+.NavigationItem a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.NavigationItem a:hover {
+    background-color: green;
+  }
+
+  .ActiveNavigationItem {
+    background-color:green;
+  }
